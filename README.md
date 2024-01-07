@@ -2,7 +2,7 @@
 
 ## About Us
 
-[Company Name] leverages the latest advancements in Large Language Models (LLMs) to provide cutting-edge mental health analysis. Our mission is to harness the power of artificial intelligence to support mental health professionals and individuals seeking insights into mental well-being.
+Counsel Ease leverages the latest advancements in Large Language Models (LLMs) to provide cutting-edge mental health analysis. Our mission is to harness the power of artificial intelligence to support mental health professionals and individuals seeking insights into mental well-being.
 
 ## What We Do
 
